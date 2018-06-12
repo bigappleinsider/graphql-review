@@ -87,3 +87,7 @@ query fetchCompany{
   }
 }
 ```
+
+### Mutations
+- updating data
+
